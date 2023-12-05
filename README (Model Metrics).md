@@ -1,4 +1,4 @@
-# Capstone-Two-Project
+# Capstone-Two-Project - Model Metrics
 
 Model Used: Gradient Boosting Regressor()
 Model Features: ['temp', 'hum', 'windspeed', 'cnt', 'season_1', 'season_2', 'season_3', 'season_4', 'weathersit_1', 'weathersit_2', 'weathersit_3', 'season_1’, ’season_2', 'season_3', 'season_4', 'yr_0', 'yr_1', 'mnth_1', 'mnth_2','mnth_3', 'mnth_4', 'mnth_5', 'mnth_6', 'mnth_7', 'mnth_8', 'mnth_9',
